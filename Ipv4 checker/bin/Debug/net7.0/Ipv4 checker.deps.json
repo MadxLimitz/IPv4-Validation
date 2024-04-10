@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Ipv4 checker/1.0.0": {
+        "runtime": {
+          "Ipv4 checker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ipv4 checker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
